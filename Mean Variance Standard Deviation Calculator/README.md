@@ -26,3 +26,6 @@ The input of the function should be a list containing 9 digits. The function sho
 ## How to Run:
 - Install Python & NumPy
 - Run the script by typing python (or python3) main.py
+
+## License:
+- This project is licensed under The Unlicense. You are free to use, modify, and distribute this project with no restrictions. See the LICENSE file for more information.
