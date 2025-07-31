@@ -1,6 +1,7 @@
 # Mean-Variance-Standard Deviation Calculator
 
 **Completed**: 7/23/25
+
 **Part Of** FreeCodeCamp's Data Analysis with Python Certification.
 
 This project uses NumPy and Python to create a function to computer the mean, variance, standard deviation, max, min, and sum of a 3x3 matrix constructed from a list of 9 values.
