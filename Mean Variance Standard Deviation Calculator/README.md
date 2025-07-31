@@ -3,7 +3,7 @@
 **Completed**: 7/23/25
 **Part Of** FreeCodeCamp's Data Analysis with Python Certification.
 
-This project uses NumPy and Python to create a function to computer the mean, variance, standard deviation, max, min, and sum of a 3x3 matrix constructed from a list of 9 values
+This project uses NumPy and Python to create a function to computer the mean, variance, standard deviation, max, min, and sum of a 3x3 matrix constructed from a list of 9 values.
 
 ## Project Description (From FreeCodeCamp):
 
@@ -15,7 +15,7 @@ The input of the function should be a list containing 9 digits. The function sho
 
 - **Input**: A list containing 9 digits
 - **Output**: A Dictionary containing the resulting calculations
-- **Error Handeling**: If the list is empty, or has less than 9 numbers in it.
+- **Error Handeling**: If the list is empty, or doesn't contain 9 elements in it, raise a ValueError.
 
 ## Technologies used:
 - NumPy
