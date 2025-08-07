@@ -18,7 +18,7 @@ The project answers questions such as:
 
 ## Guidelines:
 
-- **Input**: A CSV file with medical data (fcc-forum-pageviews.csv)
+- **Input**: A CSV file with time series data (fcc-forum-pageviews.csv)
 - **Output**: Three plots (line_plot.png, bar_plot.png and box_plot.png);
     - line_plot: A line chart showing daily page views over time.
     - bar_plot: A bar chart displaying average monthly page viewes per year.
