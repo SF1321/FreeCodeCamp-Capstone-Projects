@@ -8,7 +8,7 @@ This project uses Python, Pandas, Matplotlib, and Seaborn to read and clean foru
 
 ## Project Description:
 
-Create three functions (draw_line_plot(), draw_bar_plot(), draw_box_plot()) in the file time_series_visualizer.py to process and visualize a dataset of forum page views over time. Said functions produce a line chart to show long term viewing trends, a bar chart for monthly averages grouped by year, and box plots to reveal trends and seasonality in the data given
+Create three functions (draw_line_plot(), draw_bar_plot(), draw_box_plot()) in the file time_series_visualizer.py to process and visualize a dataset of forum page views over time. Said functions produce a **line chart** to show long term viewing trends, a **bar chart** for monthly averages grouped by year, and **box plots** to reveal trends and seasonality in the data given.
 
 The project answers questions such as:
 
