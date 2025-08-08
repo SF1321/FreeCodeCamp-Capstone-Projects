@@ -19,16 +19,16 @@ The project answers questions such as:
 ## Guidelines:
 
 - **Input**: A CSV file with time series data (fcc-forum-pageviews.csv)
-- **Output**: Three plots (line_plot.png, bar_plot.png and box_plot.png);
+- **Output**: Three plots (line_plot.png, bar_plot.png and box_plot.png):
     - line_plot: A line chart showing daily page views over time.
     - bar_plot: A bar chart displaying average monthly page viewes per year.
     - box_plot: Two box plots - one showing year-wise distributions, and one showing month-wise distributions.
 - **Steps taken**:
-    - Import and parse the time series data
+    - Import and parse the time series data.
     - Clean outliers using quantile filtering (2.5%-97.5%)
-    - Create a line plot to visualize long-term daily trends
-    - Create a bar plot by grouping monthly averages by year
-    - Create two box plots to show trends by year and seasonality by month 
+    - Create a line plot to visualize long-term daily trends.
+    - Create a bar plot by grouping monthly averages by year.
+    - Create two box plots to show trends by year and seasonality by month.
 
 ## Technologies used:
 - Python
