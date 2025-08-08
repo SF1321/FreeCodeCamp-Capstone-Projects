@@ -12,7 +12,7 @@ def draw_plot():
                 label = 'Data')
 
     # Create first line of best fit
-    slope, intercept, r_value, p_value, std_err = linregress(df['Year'],
+    slope, intercept, _, _, _ = linregress(df['Year'],
                                              df['CSIRO Adjusted Sea Level'])
     
     years = pd.Series(range(1880,2051))
