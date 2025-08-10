@@ -15,26 +15,26 @@ Each project is in it's own folder, containing all of the following:
 ## Projects:
 
 - Mean-Variance-Standard Deviation Calculator:
--   Tools Used: NumPy
--   Description: A calculator that computes descriptive statistics from a 3x3 Matrix.
+-     Tools Used: NumPy
+-     Description: A calculator that computes descriptive statistics from a 3x3 Matrix.
 
 
 - Demographic Data Analyzer:
--   Tools Used: NumPy, Pandas
--   Description: Exploring a data of U.S Census demographic data to uncover specific trends and patterns.
+-     Tools Used: NumPy, Pandas
+-     Description: Exploring a data of U.S Census demographic data to uncover specific trends and patterns.
 
 
 - Medical Data Visualizer:
--   Tools Used: Pandas, Seaborn, Matplotlib
--   Description: Cleaning and visualizing medical exam data to identify any trends or correlations regarding people's health.
+-     Tools Used: Pandas, Seaborn, Matplotlib
+-     Description: Cleaning and visualizing medical exam data to identify any trends or correlations regarding people's health.
 
 - Page View Time Series Visualizer:
--   Tools Used: Pandas, Matplotlib, Seaborn
--   Description: Created line, bar and box plots to analyze daily page views of a specific website over time.
+-     Tools Used: Pandas, Matplotlib, Seaborn
+-     Description: Created line, bar and box plots to analyze daily page views of a specific website over time.
 
 Sea Level Predictor:
--   Tools Used: Pandas, Matplotlib, SciPy/Linear Rgression
--   Description: Modeled and predicted future sea levels based on existing trends from a dataset.
+-     Tools Used: Pandas, Matplotlib, SciPy/Linear Rgression
+-     Description: Modeled and predicted future sea levels based on existing trends from a dataset.
 
 
 ## How to Run:
