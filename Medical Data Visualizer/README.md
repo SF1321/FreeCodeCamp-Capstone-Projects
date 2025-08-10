@@ -19,7 +19,7 @@ The project answers questions such as:
 
 - **Input**: A CSV file with medical data (medical_examination.csv)
 - **Output**: Two plots (catplot.png and heatmap.png);
-    - Catplot is a categorical plot whih shows the distributions of health features split by cardiovasuclar disease.
+    - Catplot is a categorical plot which shows the distributions of health features split by cardiovasuclar disease.
     - Heatmap.png is a heatmap that displays the correlation between different health metrics like height, weight, and blood pressure.
 - **Steps taken**:
     -  Add an 'overweight' column using BMI
