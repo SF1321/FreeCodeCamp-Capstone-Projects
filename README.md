@@ -43,5 +43,5 @@ Each project is in it's own folder, containing all of the following:
 - Pick a project folder and run the main script (main.py for all).
 
 ## License:
-All code in this repository is releasd Under the unlicense, making it free and open for public use.
+All code in this repository is released under the Unlicense, making it free and open for public use.
 
