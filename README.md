@@ -32,7 +32,7 @@ Each project is in it's own folder, containing all of the following:
   - **Tools Used**: Pandas, Matplotlib, Seaborn
   - **Description**: Created line, bar and box plots to analyze daily page views of a specific website over time.
 
-Sea Level Predictor:
+- Sea Level Predictor:
   - **Tools Used**: Pandas, Matplotlib, SciPy/Linear Rgression
   - **Description**: Modeled and predicted future sea levels based on existing trends from a dataset.
 
